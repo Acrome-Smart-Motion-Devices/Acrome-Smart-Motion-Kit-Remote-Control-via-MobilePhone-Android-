@@ -5,7 +5,7 @@ The purpose of this application is to control a robot using your mobile phone, j
 For detailed information on how to set up the Raspberry Pi and run the script automatically, click [here](https://github.com/Acrome-Smart-Motion-Devices/Acrome-Motion-Kit-Control-Global/blob/main/Acrome%2BGlobal%20Motion%20Device%20Control%20.pdf).
 
 ## Mobile Application Overview
-If you are already familiar with the setup process, you can click [here](#link) to learn about the mobile application features.
+If you are already familiar with the setup process, you can click [here]([#link](https://github.com/Acrome-Smart-Motion-Devices/Acrome-Smart-Motion-Kit-Remote-Control-via-MobilePhone-Android-/blob/main/Remote_Controlled_Car.pdf)) to learn about the mobile application features.
 
 ---
 
